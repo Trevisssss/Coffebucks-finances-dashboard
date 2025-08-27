@@ -22,21 +22,30 @@ Para ver o painel acesse o link: [Link do Painel](https://app.powerbi.com/view?r
 - Power BI ➡️ Conexão com a fonte de dados, tratamentos e visualização
 - Fonte de dados: Arquivos.csv
 
-## Principais Análises
+## Principais Indicadores
 
-- Evolução da margem de lucro mensal
+- Comparativo entre períodos (Realizado Vs Mês anterior, Realizado vs Ano Anterior)
+- Evolução do realizado vs Orçado/Previsto Mensal
 - Análise de custos operacionais ( Planos de contas detalhados )
-- Comparativo entre períodos (Vs Mês anterior, vs Ano Anterior)
 
-## Recomendações
+## Análises e Recomendações
 
-Sem olhar para nenhuma sede em específico, ou seja, em um parâmetro geral, podemos ver que a amortização foi o plano de conta que mais se distanciou de sua meta, onde era esperado um valor de despesa, porém um maior apareceu.
+![Principais Despesas](TopDespesas.png)
 
-Se filtrarmos sede a sede, Florianópolis e Rio de Janeiro são os com a maior distância do orçado. Esse distanciamento pode indicar alguns problemas, como:
+Como um ambiente corporativo é dinâmico e de rápidas mudanças, o foco aqui é no último período disponível, visto que são análises de performance financeira operacional.
 
-- **Depreciação:**
-    - Uma depreciação realizada acima da orçada, provavelmente indica que algum equipamento ou bem material não planejado, foi adquirido. Com isso temos um 'gap' de processos e comunicação. Dessa forma é importante entender o que levou a isso, e talvez estabelecer melhores processos de compras, talvez com um maior rigor nas aprovações de adquisição de bens.
+O primeiro ponto de atenção aqui são as despesas `Depreciação e Amortização` e `Despesas Operacionais`. Como pode-se ver na imagem, quando ordenamos pela variação do Orçado (`(∆)%,`) essas são as 2 com a maior distância do realizado x Orçado.
 
+Apesar disso, baseado na receita bruta e valor dessas dívidas, as `Despesas Operacionais` são as que, em valor absoluto (R$), geram a maior despesa, e dessa forma corrigir isso (se possível) gerará um impacto financeiro maior. Com isso em mente, vamos detalhar mais a conta de `Despesas Operacionais`.
 
+![alt text](DespesasOperacionaisDetalhadas.png)
 
-![alt text](PlanoDeContaEmAtenção.png)
+Dentre as despesas operacionais mais especificamente `Publicidade`dentro de `Despesas Comerciais`e `Horas Extras`dentro de `Despesas Administrativas`, juntas acumularam **R$ 22.660** de dividas não esperadas.
+
+**Recomendações**: 
+
+#### Publicidade: 
+
+Se olharmos para o histórico desta conta específica ao longo dos meses nesse ano (imagem abaixo), vemos que em todos os meses houve uma discordância entre o realizado e o orçado para essa área de `Publicidade`, o que pode indicar uma necessidade de melhoria do processo de aprovação de cada campanha, ou ainda que deveria haver 
+
+![alt text](EvoluçãoPublicidade.png)
