@@ -46,6 +46,38 @@ Dentre as despesas operacionais mais especificamente `Publicidade`dentro de `Des
 
 #### Publicidade: 
 
-Se olharmos para o histórico desta conta específica ao longo dos meses nesse ano (imagem abaixo), vemos que em todos os meses houve uma discordância entre o realizado e o orçado para essa área de `Publicidade`, o que pode indicar uma necessidade de melhoria do processo de aprovação de cada campanha, ou ainda que deveria haver 
+Ao analisar o histórico da conta de `Publicidade` ao longo dos meses deste ano (imagem abaixo), fica evidente que, em todos os períodos, o valor realizado superou o orçado. Esse padrão sugere a necessidade de aprimorar o processo de aprovação das campanhas, adotando controles mais rigorosos e garantindo o respeito ao teto de gastos planejado.
 
-![alt text](EvoluçãoPublicidade.png)
+![EvoluçãoPublicidade](EvoluçãoPublicidade.png)
+
+Outra hipótese que pode ser investigada, é que possivelmente o orçamento destinado às campanhas esteja subestimado. Para investigar essa hipótese, é importante analisar detalhadamente os dados das campanhas anteriores e verificar se existe potencial para obter o mesmo impacto financeiro com investimentos menores. Essa análise deve ser feita em conjunto com a revisão do processo de aprovação, visando otimizar os gastos e aumentar a eficiência das ações.
+
+
+#### Horas Extras:
+
+Já relacionado às horas extras, verificando também a evolução do realizado com o orçado, vê se que foi um problema mais pontual do que generalizado. 
+
+![EvoluçãoPublicidade](EvoluçãoHoraExtra.png)
+
+#### Horas Extras:
+
+Ao analisar a evolução da conta de `Horas Extras` ao longo dos meses (imagem abaixo), observa-se que o estouro do orçamento foi pontual, concentrado em poucos meses, e não um padrão recorrente como em Publicidade.
+
+![EvoluçãoHoraExtra](EvoluçãoHoraExtra.png)
+
+**Sugestões de ações para o contexto atual:**
+
+- **Revisar os meses com maior variação:**  
+  Para aprofundar essa análise, é importante identificar as possíveis causas do aumento das horas extras nos meses específicos. Entre os fatores que **podem ter contribuído** estão:
+  - **Picos de demanda:** Eventos sazonais, promoções ou aumento inesperado no fluxo de clientes podem exigir mais trabalho dos colaboradores.
+  - **Ausência de funcionários:** Férias, licenças médicas ou afastamentos podem gerar necessidade de compensação por outros membros da equipe.
+  - **Projetos excepcionais:** Implementação de novos sistemas, treinamentos ou mudanças operacionais podem demandar horas extras temporárias.
+  - **Planejamento inadequado:** Falhas na previsão de demanda ou na alocação de recursos podem resultar em sobrecarga de trabalho.
+
+ - Após identificar as causas, as seguintes ações podem ser tomadas:
+    - **Ajustar o planejamento de pessoal:** Antecipar contratações temporárias ou` redistribuir tarefas para períodos críticos`.
+    - **Monitorar indicadores de absenteísmo:** Acompanhar ausências para agir preventivamente e evitar sobrecarga.
+    - **Avaliar processos internos:** Identificar oportunidades de `automação ou melhoria de processos` para reduzir a necessidade de horas extras.
+    - **Comunicação com gestores:** Orientar líderes sobre o impacto financeiro das horas extras e reforçar a importância do controle orçamentário.
+
+Essas ações ajudarão a mitigar o impacto financeiro das horas extras e promovem uma gestão de recursos mais eficiente.
